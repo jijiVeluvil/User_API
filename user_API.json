@@ -1,0 +1,13 @@
+{
+    "user_first_name": "Kanmani",
+    "user_last_name": "TeamTen",
+    "user_contact_number": "5674328791",
+    "user_email_id": "Kanmani0@gmail.com",
+    "userAddress": {
+        "plotNumber": "G-789",
+        "street": "garang",
+        "state": "MP",
+        "country": "india",
+        "zipCode": "784563"
+    }
+}
